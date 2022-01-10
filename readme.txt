@@ -1,51 +1,52 @@
-place 
+Files 
 1)sens_trail2.m matlab file,
 2)sens_trial2.fig file  
-3)picturenamed "medi" 
+3)picture named "medi" 
 4)med_data.m and med_data.fig file 
 in one folder.
 
-sens_trial2.m is the program u need to run in matlab.
-sens_trial2.fig is file of gui.
-medi.jpg is the background picture that u c in gui.
-med_data is the sub GUI
-TYPE PWD IN COMMAND WINDOW AND SEE WHERE U ARE NOW.
-FOR THIS PROGRAM TO RUN, U SHOULD BE IN THE SAME FOLDER.
+File details :
+sens_trial2.m   : is the program u need to run in matlab.
+sens_trial2.fig : is file of GUI.
+medi.jpg        : is the background picture in GUI.
+med_data        : is the secondary GUI opened from first for adding new entries
+
+To Run the program in MATLAB:
+TYPE PWD IN COMMAND WINDOW TO SEE WHERE YOUR CURRENT DIRECTORY IS.
+FOR THIS PROGRAM TO RUN, MAKE THE PROGRAM DIRECTORY AS WORKING DIRECTORY.
 SO ADD THE FOLDER TO THE MATLAB PATH.
-AGAIN SEE WHERE U STANDS AND CONFIRM.
+AGAIN VERIFY THE CURRENT WORKING DIRECTORY AND CONFIRM.
 
 steps:
-1.place all these in one folder.
-2.open matlab application
-3.from matlab open the file sens_trial2.m
+1.Place all these in one folder.
+2.Open matlab application
+3.From matlab open the file sens_trial2.m
   this can be done as a)home->open(select file) or
 		      b) press cntl+o together
-4. place curser in the opened program.then see the etitor menu
-   along with home,plots,apps,editor,publish,view.
+4.Place curser in the opened program. See the editor menu
+   along home,plots,apps,editor,publish,view menus.
 5.press run from editor menu.
-6.matlab asks? change folder /add to path
+6.If matlab asks: change folder /add to path?
   select add to path.
-7.wait some seconds and see gui opening up.
+7.Wait for some seconds and see GUI opening up in a new window.
 
-8.type report num and num of days elepsed and "LOAD"
-  Then "submit".
-  See the results.
+8.In the GUI, type report num and num of days elepsed and press "LOAD" button and
+  then "submit".
+  See the results fro the intended patient.
   
 
 note.
 1. if u wanted to open sens_trial2.fig which is editable gui file,
    type "guide" in the editor window.
-2. never type anything on running gui.
-3. to load a new file , press "cancel" and load it again.
-4. if you donot cancel and press submit reports will be displayed
-   in repeating manner.so dont try :)
-5. the 3 result sections in gui is and editable one.
-   accidently if u press any keys it will be displayed.
-   if so just delete. dats all :)
+2. never type anything on editor while running GUI.
+3. To load a new file , press "cancel" button and load it again.
+4. if you don't press cancel and press submit, then reports will be displayed
+   in repeating manner.so dont try.
+5. There 3 result sections in GUI is and it seems editable.
+   accidently if u press any keys it will be displayed.(please delete texts if you type anything)
+   
 
-so pray to god n do !!! may all the results be correct!! :) :)
-
-HARITHA AND GENE
+-HARITHA AND GENE
 
 
 
