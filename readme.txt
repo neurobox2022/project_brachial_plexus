@@ -36,14 +36,14 @@ steps:
   
 
 note.
-1. if u wanted to open sens_trial2.fig which is editable gui file,
-   type "guide" in the editor window.
-2. never type anything on editor while running GUI.
-3. To load a new file , press "cancel" button and load it again.
-4. if you don't press cancel and press submit, then reports will be displayed
-   in repeating manner.so dont try.
-5. There 3 result sections in GUI is and it seems editable.
-   accidently if u press any keys it will be displayed.(please delete texts if you type anything)
+1. If you wanted to open sens_trial2.fig which is editable gui file,
+   type "guide" in the editor window in matlab.
+2. Never type anything on editor while running GUI.
+3. To load a new file, press "cancel" button and load it again.
+4. If you don't press cancel and press submit, then reports will be displayed
+   in repeating manner.Please avoid such actions.
+5. There is 3 result sections in the GUI and it is an editable field.
+   accidently if you press any keys it will be displayed.(please delete texts if you type anything)
    
 
 -HARITHA AND GENE
